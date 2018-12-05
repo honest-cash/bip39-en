@@ -1,5 +1,6 @@
 # BIP39 (english only)
-This is a forked version of BIP39 as part of the <a href="https://github.com/honest-cash/bitbox-light">bitbox-light</a> project. It contains only the english wordlist. This repository is maintained by <a href="https://honest.cash">https://honest.cash</a>. 
+This is a forked version of BIP39. It contains only the english wordlist. It is path of the <a href="https://github.com/honest-cash/bitbox-light">bitbox-light</a> project.
+This repository is maintained by <a href="https://honest.cash">https://honest.cash</a>.
 
 [![Build Status](https://travis-ci.org/bitcoinjs/bip39.png?branch=master)](https://travis-ci.org/bitcoinjs/bip39)
 [![NPM](https://img.shields.io/npm/v/bip39.svg)](https://www.npmjs.org/package/bip39)
