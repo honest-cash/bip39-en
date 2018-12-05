@@ -1,5 +1,5 @@
 {
-  "name": "bip39-en",
+  "name": "bip39-light",
   "version": "2.5.0",
   "description": "Bitcoin BIP39: Mnemonic code for generating deterministic keys (english only)",
   "main": "index.js",
