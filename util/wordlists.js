@@ -4,15 +4,8 @@ var path = require('path')
 
 var log = console.log
 var WORDLISTS = [
-  'chinese_simplified',
-  'chinese_traditional',
-  'english',
-  'french',
-  'italian',
-  'japanese',
-  'spanish',
-  'korean'
-]
+  'english'
+];
 
 function update () {
   download().then(function (wordlists) {
